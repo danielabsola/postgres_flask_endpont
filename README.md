@@ -92,9 +92,9 @@ Este proyecto fue desarrollado para experimentar con la creación rápida de API
 
 ## 📬 Contacto
 
-Creado por [@danielabsola](https://github.com/danielabsola)  
-[Gmail] dbshoy@gmail.com  
+[Gmail] (dbshoy@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/daniela-beatriz-sola-587b902b)  
+[GitHub](https://github.com/danielabsola)
 [Malt](https://www.malt.es/profile/danielabeatrizsola)
 
 ---
