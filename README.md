@@ -93,4 +93,10 @@ Este proyecto fue desarrollado para experimentar con la creación rápida de API
 ## 📬 Contacto
 
 Creado por [@danielabsola](https://github.com/danielabsola)  
+[LinkedIn](https://www.linkedin.com/in/daniela-beatriz-sola-587b902b)  
+
+---
+
+> Si este proyecto te resulta útil o interesante, ¡no olvides dejar una ⭐️!
+v
 🌐 Disponible para proyectos freelance y colaboraciones tech.
